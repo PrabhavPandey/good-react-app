@@ -1,6 +1,6 @@
 # good-react-app
 
-create-react-app without the bs
+create-react-app without the bs, with some candy
 
 ## 🤔why?
 
@@ -13,9 +13,16 @@ so, i thought why not make this boilerplate public and free for use?
 • you don't need to delete the above mentioned files <br />
 • css reset classes are already setup and no unnesasarry gibbersih for you to handle
 
+## usage 
+
+1. Clone this project
+2. run `npm i` or `npm install`
+3. run `npm start`
+4. voila! that's it, go ahead and create the best project you can
+
 ## 😠this sucks?
 
-have any bright ideas to make this template better? go ahead, fork this project and submit a PR
+have any bright ideas to make this template better? go for it, fork this project and submit a PR
 
 ## let's talk
 
